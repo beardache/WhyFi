@@ -12,6 +12,7 @@ In my search for a list I’ve found a Russian company that has built a crowdsou
 To comprise with the dataset acquired from the Russian company, the original password list that came with the brute force app,  I’ve looked at Istanbul, Iraq and New York and noticed that non latin alphabet rather use numbers for their choice of password. But numbers will also be password of choice for IoT devices for consumers. But overall if you want to have a good password list to brute force you’ve to look for patterns for the specific area where the WiFi device is in.
 
 Base words regional
+```
 Commonly used	| Turkey Istanbul	| Iraq Baghdad	| USA New York
 blue			| istanbul		| ahmed 			| marion
 test				| current 			| aliali 			| password
@@ -23,8 +24,10 @@ fuck				| ahmet 			| current			| freewifi
 soccer 			| murat			| required		| angelina
 mustang 		| mehmet		| alialiali			| newyork
 bubba			| mustafa		| peshmarga		| abcd
+```
 
 Top passwords
+```
 Commonly used	| Turkey Istanbul	| Iraq Baghdad	| USA New York
 password		| 12345678		| 12345678		| Marion426
 123456			| 123456789		| 123456789		| 12345678
@@ -36,8 +39,10 @@ dragon			| current 			| 1234567890	| password
 pussy			| required		| 20152015		| marion426
 baseball			| 1234567		| 1234554321	| 1234567
 football			| 1122334455	| 11111111		| 1234
+```
 
 Password length
+```
 Commonly used	| Turkey Istanbul	| Iraq Baghdad	| USA New York
 6 = 35.48%		| 8 = 23.28%		| 8 = 42.33%		| 8 = 23.94%
 7 = 20.53%		| 10 = 17.67%	| 10 = 14.14%	| 10 = 14.54%
@@ -49,3 +54,4 @@ Commonly used	| Turkey Istanbul	| Iraq Baghdad	| USA New York
 11 = 0.11%		| 7 = 3.79%		| 7 = 2.68%		| 12 = 4.6%
 12 = 0.07%		| 5 = 3.61%		| 13 = 2.03%		| 13 = 4.46%
 13 = 0.02%		| 14 = 3.07%		| 14 = 1.5%		| 16 = 2.91%
+```
