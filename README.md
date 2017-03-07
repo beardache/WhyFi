@@ -14,15 +14,15 @@ To comprise with the dataset acquired from the Russian company, the original pas
 Base words regional
 Commonly used	| Turkey Istanbul	| Iraq Baghdad	| USA New York
 blue			| istanbul		| ahmed 			| marion
-test				| current 			| aliali 	| password
-love				| toplanzi.com	| admin		| guest
+test				| current 			| aliali 			| password
+love				| toplanzi.com	| admin			| guest
 pussy			| galatasaray		| aaaa			| netgear
 qwerty			| required		| mustafa		| welcome
-letmein			| fenerbahce		| aaaaaaaa| hello
-fuck				| ahmet 			| current		| freewifi
+letmein			| fenerbahce		| aaaaaaaa		| hello
+fuck				| ahmet 			| current			| freewifi
 soccer 			| murat			| required		| angelina
-mustang 		| mehmet		| alialiali		| newyork
-bubba			| mustafa		| peshmarga		  | abcd
+mustang 		| mehmet		| alialiali			| newyork
+bubba			| mustafa		| peshmarga		| abcd
 
 Top passwords
 Commonly used	| Turkey Istanbul	| Iraq Baghdad	| USA New York
